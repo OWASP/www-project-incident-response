@@ -33,7 +33,7 @@ auto-migrated: 1
 <img src="Proactiverisk_logo_v2.jpg" title="Proactiverisk_logo_v2.jpg" alt="Proactiverisk_logo_v2.jpg" /><figcaption>Proactiverisk_logo_v2.jpg</figcaption>
 </figure></td>
 <td><h2 id="in_print">In Print</h2>
-<p><a href="https://www.owasp.org/images/9/92/Top10ConsiderationsForIncidentResponse.pdf">Version 1.0 .PDF Version</a></p>
+<p><a href="/www-pdf-archive/Top10ConsiderationsForIncidentResponse.pdf">Version 1.0 .PDF Version</a></p>
 <p><a href="https://www.owasp.org/images/9/92/Top10ConsiderationsForIncidentResponse.pdf">Version 1.0 .PDF Version</a></p>
 <h2 id="presentation">Presentation</h2>
 <h2 id="presentation">Presentation</h2>
@@ -104,7 +104,7 @@ in order to contribute. Some of the ways you can help:
 
 __NOTOC__ <headertabs></headertabs>
 
-[Category:OWASP Project](Category:OWASP_Project "wikilink")
-[Category:OWASP_Builders](Category:OWASP_Builders "wikilink")
-[Category:OWASP_Defenders](Category:OWASP_Defenders "wikilink")
-[Category:OWASP_Document](Category:OWASP_Document "wikilink")
+[Category:OWASP Project](Category:OWASP_Project )
+[Category:OWASP_Builders](Category:OWASP_Builders )
+[Category:OWASP_Defenders](Category:OWASP_Defenders )
+[Category:OWASP_Document](Category:OWASP_Document )
